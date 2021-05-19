@@ -1,0 +1,36 @@
+example_id                          | status | run_time        |
+----------------------------------- | ------ | --------------- |
+./spec/game_spec.rb[1:1:1:1:1]      | passed | 0.00053 seconds |
+./spec/game_spec.rb[1:1:2:1:1]      | passed | 0.0004 seconds  |
+./spec/game_spec.rb[1:1:2:2:1]      | passed | 0.00508 seconds |
+./spec/game_spec.rb[1:1:3:1:1]      | failed | 0.01854 seconds |
+./spec/game_spec.rb[1:1:3:2:1]      | failed | 0.00045 seconds |
+./spec/game_spec.rb[1:1:3:3:1]      | failed | 0.00068 seconds |
+./spec/game_spec.rb[1:1:3:4:1]      | passed | 0.00032 seconds |
+./spec/position_spec.rb[1:1:1:1]    | passed | 0.0005 seconds  |
+./spec/position_spec.rb[1:1:2:1]    | passed | 0.00027 seconds |
+./spec/position_spec.rb[1:1:3:1]    | passed | 0.00082 seconds |
+./spec/position_spec.rb[1:1:4:1]    | passed | 0.00022 seconds |
+./spec/position_spec.rb[1:1:5:1:1]  | passed | 0.00152 seconds |
+./spec/position_spec.rb[1:1:5:2:1]  | passed | 0.00016 seconds |
+./spec/position_spec.rb[1:1:5:3:1]  | passed | 0.00012 seconds |
+./spec/position_spec.rb[1:1:5:4:1]  | passed | 0.00014 seconds |
+./spec/position_spec.rb[1:1:5:5:1]  | passed | 0.00012 seconds |
+./spec/position_spec.rb[1:1:5:6:1]  | passed | 0.00012 seconds |
+./spec/position_spec.rb[1:1:5:7:1]  | passed | 0.00014 seconds |
+./spec/position_spec.rb[1:1:5:8:1]  | passed | 0.00014 seconds |
+./spec/position_spec.rb[1:1:5:9:1]  | passed | 0.00021 seconds |
+./spec/position_spec.rb[1:1:5:10:1] | passed | 0.00021 seconds |
+./spec/position_spec.rb[1:1:5:11:1] | passed | 0.00015 seconds |
+./spec/position_spec.rb[1:1:5:12:1] | passed | 0.00014 seconds |
+./spec/position_spec.rb[1:1:5:13:1] | passed | 0.00027 seconds |
+./spec/position_spec.rb[1:1:5:14:1] | passed | 0.00024 seconds |
+./spec/position_spec.rb[1:1:6:1:1]  | passed | 0.03594 seconds |
+./spec/position_spec.rb[1:1:6:1:2]  | passed | 0.60503 seconds |
+./spec/position_spec.rb[1:1:6:2:1]  | passed | 0.00016 seconds |
+./spec/position_spec.rb[1:1:6:3:1]  | passed | 0.00014 seconds |
+./spec/position_spec.rb[1:1:6:4:1]  | passed | 0.00013 seconds |
+./spec/position_spec.rb[1:1:6:5:1]  | passed | 0.02284 seconds |
+./spec/position_spec.rb[1:1:6:6:1]  | passed | 0.00019 seconds |
+./spec/position_spec.rb[1:1:7:1:1]  | passed | 0.02437 seconds |
+./spec/position_spec.rb[1:1:7:2:1]  | passed | 0.01518 seconds |
